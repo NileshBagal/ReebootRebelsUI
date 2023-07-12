@@ -396,14 +396,14 @@ function init_chart_doughnut() {
             tooltipFillColor: "rgba(51, 51, 51, 0.55)",
             data: {
                 labels: [
-                    "Symbian",
-                    "Blackberry",
-                    "Other",
-                    "Android",
-                    "IOS"
+                    "Chemical Reactn",
+                    "Burning fossil fules",
+                    "Inefficiency",
+                    "Low quality Raw Mat",
+                    "Others"
                 ],
                 datasets: [{
-                    data: [15, 20, 30, 10, 30],
+                    data: [60, 20, 30, 10, 30],
                     backgroundColor: [
                         "#BDC3C7",
                         "#9B59B6",
